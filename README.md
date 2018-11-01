@@ -1,1 +1,1 @@
-# distributed_share
+This program is written in java. Type "java -jar mp3.jar 0" to run the program. After entering the language, the introducer would input "initiate" to be the introducer. Other machines can then input "join" to join the membership list, or "leav" to leave the membership list.
